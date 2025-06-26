@@ -1,1 +1,1 @@
-# Time-Series-Analysis-of-stock-data
+# Time-Series-Analysis-with-stock-data
